@@ -3,4 +3,5 @@ def change (l):
 l1=[1,2,3]
 change(l1)
 print(l1[0])
+print(l1[1])
 

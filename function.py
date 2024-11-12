@@ -7,5 +7,5 @@ def add (a,b):
     print(s)
 b=9
 a=7
-add (a,b)
+
 print(a,b,x)    
